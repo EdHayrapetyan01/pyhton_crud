@@ -3,7 +3,7 @@
 
 ## Running the Application
 
-Before running the application you need to create the needed DB tables:
+Before running the application type:
 
     ./manage.py migrate
 
