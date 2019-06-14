@@ -1,6 +1,5 @@
 # Django CRUD 
 
-## Install Required Packages
 
 ## Running the Application
 
